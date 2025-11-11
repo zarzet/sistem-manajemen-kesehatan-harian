@@ -42,7 +42,7 @@
                 <artifactId>maven-compiler-plugin</artifactId>
                 <version>3.13.0</version>
                 <configuration>
-                    <release>2</release>
+                    <release>25</release>
                 </configuration>
             </plugin>
 
